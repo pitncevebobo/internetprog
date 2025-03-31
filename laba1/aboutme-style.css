@@ -1,0 +1,22 @@
+/* Изменение цвета фона */
+body {
+    background-color: #f0f8ff; /* Светло-голубой фон */
+}
+
+/* Изменение цвета и шрифта для заголовка "О себе" */
+h1 {
+    color: #2e8b57; /* Темно-зеленый цвет */
+    font-family: 'Georgia', serif; /* Шрифт Georgia */
+    font-size: 28px; /* Размер шрифта */
+    font-weight: bold; /* Жирный шрифт */
+    font-style: italic; /* Курсив */
+}
+
+/* Изменение цвета и шрифта для списка любимых дисциплин */
+ul li:first-child {
+    color: #8a2be2; /* Фиолетовый цвет */
+    font-family: 'Verdana', sans-serif; /* Шрифт Verdana */
+    font-size: 16px; /* Размер шрифта */
+    font-weight: 600; /* Полужирный шрифт */
+    font-style: normal; /* Обычный стиль */
+}
